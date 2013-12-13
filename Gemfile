@@ -47,3 +47,6 @@ end
 
 
 gem 'rails_12factor', group: :production
+
+#addingbootstrap gem for EZPZ styles
+gem 'twitter-bootstrap-rails'
